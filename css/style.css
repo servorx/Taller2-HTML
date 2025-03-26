@@ -1,0 +1,18 @@
+.container span:nth-child(odd) {
+    border: 1px solid #000;
+    background-color: lightgreen;
+}
+.container span:nth-child(even) {
+    background-color: lightgray;
+    border: 1px solid #000;
+}
+.container span:hover {
+    background-color: black;
+    border: 1px solid #000;
+    color: white;
+}
+
+.container em{
+    background-color: lightgray;
+    border: 1px solid #000;
+}
